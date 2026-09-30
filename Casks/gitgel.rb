@@ -7,10 +7,9 @@ cask "gitgel" do
   desc "Read-only reviewer for git branches and worktrees across repositories"
   homepage "https://github.com/gokberkakdeniz/homebrew-tap"
 
+  auto_updates true
   depends_on arch: :arm64
   depends_on :macos
-
-  auto_updates true
 
   app "Gitgel.app"
 
