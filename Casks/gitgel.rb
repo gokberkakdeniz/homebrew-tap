@@ -10,7 +10,9 @@ cask "gitgel" do
   depends_on arch: :arm64
   depends_on :macos
 
-  auto_updates true    app "Gitgel.app"
+  auto_updates true
+
+  app "Gitgel.app"
 
   # Ad-hoc signed, not notarized: without this macOS blocks the first launch.
   postflight_steps do
