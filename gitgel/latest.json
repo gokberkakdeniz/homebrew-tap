@@ -1,10 +1,10 @@
 {
-  "version": "0.1.13",
-  "pub_date": "2026-09-30T17:39:50Z",
+  "version": "0.1.14",
+  "pub_date": "2026-10-05T05:07:22Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/gokberkakdeniz/homebrew-tap/releases/download/gitgel-0.1.13/Gitgel-0.1.13-macos-arm64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRY2ZZSzVMT21UVUhJaEN4OFdUZ2F0eUJDdlBQaG0rK25KdmVXdXA1Wkx3b3dWaldjQlpaU0NvcmpPRnJPWWRaT2U4SGttSHhBcDRVQXNnUUEwR3JoVU51bU1RWDFTK2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzg5OTQ4CWZpbGU6R2l0Z2VsLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTMKOFBwdUdmc0lBQ0JIVTlVN01uaExpNXRrKy9NT0YxY0pINlo3djVNMTh5clROSkMxRjVMQ1RhT0xpazZrUFlDM2RGOEs5YlpxQVUyM2lEOWsrRGw5QWc9PQo="
+      "url": "https://github.com/gokberkakdeniz/homebrew-tap/releases/download/gitgel-0.1.14/Gitgel-0.1.14-macos-arm64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRY2ZZSzVMT21UVUxxSkdRTHFpVi9NOXVlcmU4dE9EY2ovWmJubnlxQkNRU2lVd1lpOVczcVFRQjI3bWEreWV2cXpQTTc3WTBoTEdXVllJdWRuRlZMVXRYVjZNaUgyZlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTc2ODA1CWZpbGU6R2l0Z2VsLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTQKQUs5VzU0d1dPV1BuRGljVmRFRlUxTGcwRnRUWWNvOFpzSkFMU2dwTDE2b0hDSitET2NmTU9xeExjcGZTaE9kMHBJQlBkOWR0MHNVajh5RkYxa1JIRGc9PQo="
     }
   }
 }
