@@ -1,10 +1,10 @@
 {
-  "version": "0.1.15",
-  "pub_date": "2026-10-05T19:49:23Z",
+  "version": "0.1.16",
+  "pub_date": "2026-10-06T08:59:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/gokberkakdeniz/homebrew-tap/releases/download/gitgel-0.1.15/Gitgel-0.1.15-macos-arm64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRY2ZZSzVMT21UVU1YVFFnSkF2bTJSZlpZM2gwdWtURmFsYm9aQWFLYm9IdkErR1B5ODFFb1pTM1N2S2t3Y09HVUlHS283MUI2Ym9sSkpXRzNQTGJsMEJSQkVwN2x1bHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjI5NzI1CWZpbGU6R2l0Z2VsLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTUKdFJzcWtXNDdPRjFoNEFJd0dKMlNOem5La2RQYSs4RTlmMFNMTm5VUkttMThEMCtUWVJVUjEvVkpjdWQ0bnlPMWJldnRsYkkzaE4yOWtyTEhnZ3BzQ2c9PQo="
+      "url": "https://github.com/gokberkakdeniz/homebrew-tap/releases/download/gitgel-0.1.16/Gitgel-0.1.16-macos-arm64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRY2ZZSzVMT21UVUVPMVdMNC80VDJsaTY3NFEwUlRHRjU0L3lrTis2ZEFRR3R5b21MUHlwR2tnWEVmTTdDMXhtL1Y1UUlzZmxSRTJSaTIxSmFlMEptVEg2L0pYdVZzOXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjc3MTQwCWZpbGU6R2l0Z2VsLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTYKZnhXaUc3b0pLTmwyU0VnU3NNelBZd3Y1RnMvd0VZV05jbVdtTGRlRGdqcG5QNUVxMjcwR0VFOW5PRnlGN1ZPd0JWUXVHNlRsSFk4QjNzcFZtVzRHQ3c9PQo="
     }
   }
 }
