@@ -13,11 +13,6 @@ cask "gitgel" do
 
   app "Gitgel.app"
 
-  # Ad-hoc signed, not notarized: without this macOS blocks the first launch.
-  postflight_steps do
-    run "/usr/bin/xattr", args: ["-dr", "com.apple.quarantine", "{{appdir}}/Gitgel.app"]
-  end
-
   zap trash: [
     "~/Library/Application Support/com.gitgel.desktop",
     "~/Library/Caches/com.gitgel.desktop",
