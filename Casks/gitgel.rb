@@ -1,6 +1,6 @@
 cask "gitgel" do
-  version "0.2.0"
-  sha256 "daad3a53b84486482d9f14ccd9ef1a68777526947f4dcbf6c07e7c9f0bd06eef"
+  version "0.2.1"
+  sha256 "44c6f14b561c1524b9b2ced996f04db76898132cac402f15c29b4bfe3134b89a"
 
   url "https://github.com/gokberkakdeniz/homebrew-tap/releases/download/gitgel-#{version}/Gitgel-#{version}-macos-arm64.zip"
   name "Gitgel"
