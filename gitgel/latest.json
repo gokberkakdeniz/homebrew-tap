@@ -4,7 +4,7 @@
   "pub_date": "2026-11-15T17:37:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/gokberkakdeniz/homebrew-tap/releases/download/gitgel-0.2.5/Gitgel-0.2.5-macos-arm64.app.tar.gz",
+      "url": "https://github.com/gokberkakdeniz/gitgel/releases/download/0.2.5/Gitgel-0.2.5-macos-arm64.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRY2ZZSzVMT21UVUR0ZGxhWkRkU25jVEhKWVVLT0ZoVGpWVjlpdHZ1cDB6OFFQOFo4RzVDYUtyd3Q1RDYyWWJCZjNCTjZJYnJiaGVPa3l2TFNBaTJRVUx1T1FXNTM1Y3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzY0MjIzCWZpbGU6R2l0Z2VsLmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuNQpYcHNIT3ZvWC9aQ2Q5ZFFacFhVQm5lRThwZXdoL1ZTRmhFS2FrWWduejZGRHVYNFJyZEFZb3RoLzluQXVrZ0crdUFxRTRXQUVrT1lXR2NacFkvdVFDQT09Cg=="
     }
   }
