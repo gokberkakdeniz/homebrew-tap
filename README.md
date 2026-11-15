@@ -12,5 +12,4 @@ The apps update themselves.
 | --- | --- |
 | `gitgel` | Gitgel: read-only reviewer for git branches and worktrees across repositories (macOS, Apple silicon) |
 
-The apps are ad-hoc signed and not notarized. The casks remove the quarantine flag after
-installing, so macOS does not block the first launch.
+The apps are signed with a Developer ID and notarized by Apple.
