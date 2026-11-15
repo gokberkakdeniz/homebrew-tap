@@ -1,12 +1,12 @@
 # homebrew-tap
 
-Homebrew casks for my apps. The app builds are attached to this repository's releases.
+Homebrew casks for my apps. A cask installs the newest release of its app's own repository.
 
 ```bash
 brew install --cask gokberkakdeniz/tap/gitgel
 ```
 
-Updates come with `brew upgrade`.
+The apps update themselves.
 
 | Cask | App |
 | --- | --- |
